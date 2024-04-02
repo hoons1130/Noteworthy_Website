@@ -1,0 +1,31 @@
+.container {
+  display: flex;
+  max-width: 80%;
+  min-height: 100%;
+  flex-wrap: wrap;
+  background-color: white;
+  margin: auto;
+}
+
+.item {
+  color: #ffffff;
+  margin: 20px auto;
+  padding: 10px;
+  width: 30%;
+  height: 400px;
+  background-color: #d1afd3;
+  box-sizing: border-box;
+  font-style: oblique;
+}
+
+.head {
+  font-size: 40px;
+  padding-top: 0px;
+  padding-bottom: 25px;
+  text-align: center;
+  box-sizing: border-box;
+  color: #d1afd3;
+}
+.detail {
+  display: block;
+}

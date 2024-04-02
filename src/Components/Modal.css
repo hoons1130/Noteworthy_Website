@@ -1,0 +1,25 @@
+section {
+  display: flex;
+  flex-grow: 1;
+  flex-shrink: 1;
+}
+article {
+  justify-content: center;
+  text-align: center;
+  flex-grow: 1;
+  flex-basis: 100%;
+}
+.one img {
+  width: 90%;
+}
+.container h1 {
+  color: rgb(44, 44, 141);
+  font-size: 25px;
+  font-style: inherit;
+}
+.container p {
+  padding-top: 1%;
+}
+.name {
+  text-align: center;
+}
